@@ -1,3 +1,5 @@
+# V2及后续计划项目已迁移到https://gitlab.mcsog.top/ V1项目保留且不再更新
+
 # School Robot计划
 
 旨在以机器人或相关形式为学校、学生、社团服务
